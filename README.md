@@ -29,18 +29,19 @@
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sadbroshanto&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbroshanto&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbroshanto&theme=radical&hide_border=true&bg_color=0d1117" alt="streak" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=sadbroshanto&theme=radical&hide_border=true&bg_color=0d1117" alt="streak" />
   </p>
 
   <br />
 
   <h3>
     👀 Visitors: 
-    <img src="https://profile-counter.glitch.me/sadbroshanto/count.svg" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=sadbroshanto&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   </h3>
 
   <hr />
