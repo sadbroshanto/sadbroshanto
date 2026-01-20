@@ -1,4 +1,54 @@
+<div align="center">
 
-[![facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/Sadbro.link.diya.ki.korba.bro.voy.paichi) [![facebook_page](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook)](https://www.facebook.com/100090347119443) [![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/sadbroshanto) </h3> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1000&color=F70000&background=F0F494&center=true&vCenter=true&width=700&height=200&lines=Assalamu+Alaikum;Hello+world+I'm+SaDbRO;Mohammed+shanto+Islam+;I+love+Bangladesh;Support+My+GitHub+;Support+My+YouTube+Channel+;Love+You+My+All+Supporter;Wait+for+something+new;%E0%A6%86%E0%A6%B8%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%81%E0%A6%AE;%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B+%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1+%E0%A6%86%E0%A6%AE%E0%A6%BF+SaDbRO;%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6+%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4+%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE;%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87+%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF;%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0+%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC+%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8+%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8;%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0+%E0%A6%87%E0%A6%89%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%AC+%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2+%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F+%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8;%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8+%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE+%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8;%F0%9F%99%82%F0%9F%98%91%F0%9F%98%90%F0%9F%98%B6%F0%9F%A5%BA%F0%9F%98%95%F0%9F%A4%A5%F0%9F%98%85%F0%9F%98%95%F0%9F%98%97)](https://git.io/typing-svg) ![P4RVEJ](https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif) ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif) - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)‹<h3><b><i>Visitors :</i></b>views‹![‹Visitor Counter](https://profile-counter.glitch.me/sadbroshanto/count.svg)
-### Contact : <a href="https://t.me/+QEvBe0q7ZJkxNzA1"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shantonetbd903@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://youtube.com/@sadbroshanto"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://twitter.com/sadbroshanto"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://facebook.com/100090347119443"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/sadbroshanto"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br/> <a href="https://github.com/sadbroshanto/"><img title="sadbro" src="https://i.imgur.com/IuzIC2j.png"></a>
-<a href="https://ibb.co/1rMRK0W"><img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" alt="IMG-20220604-024028-305" border="0"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F70000&background=FFC85700&center=true&vCenter=true&width=700&height=100&lines=Assalamu+Alaikum;I'm+Mohammed+Shanto+Islam+(SaDbRO);Love+Programming+%26+Technology;Welcome+to+My+Profile!" alt="Typing SVG" />
+  
+  <br />
+
+  <p>
+    <a href="https://github.com/sadbroshanto">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/Sadbro.link.diya.ki.korba.bro.voy.paichi">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://youtube.com/@sadbroshanto">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://t.me/+QEvBe0q7ZJkxNzA1">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shantonetbd903@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/sadbroshanto">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadbroshanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbroshanto&layout=compact&theme=radical"/>
+    </a>
+  </div>
+  
+  <br />
+
+  <a href="https://github.com/sadbroshanto">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbroshanto&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+  <br /><br />
+
+  <img src="https://profile-counter.glitch.me/sadbroshanto/count.svg" alt="Visitor Count" />
+
+  <br /><br />
+  
+  <a href="https://ibb.co/1rMRK0W">
+    <img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" alt="Profile Pic" width="200" style="border-radius:20px; border: 3px solid #61DAFB;">
+  </a>
+
+</div>
