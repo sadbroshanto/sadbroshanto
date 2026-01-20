@@ -13,20 +13,11 @@
     <a href="https://www.facebook.com/Sadbro.link.diya.ki.korba.bro.voy.paichi">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" />
     </a>
-    <a href="https://www.facebook.com/100090347119443">
-      <img src="https://img.shields.io/badge/Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" />
-    </a>
     <a href="https://t.me/+QEvBe0q7ZJkxNzA1">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
     </a>
     <a href="https://youtube.com/@sadbroshanto">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
-    </a>
-    <a href="https://twitter.com/sadbroshanto">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
-    </a>
-    <a href="https://instagram.com/sadbroshanto">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shantonetbd903@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
@@ -35,10 +26,10 @@
 
   <br />
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif" width="120" style="margin-right: 10px;" />
-    <img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif" width="120" style="margin-right: 10px;" />
-    <img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif" width="120" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://user-images.githubusercontent.com/87250241/154004616-9ada377d-645e-4146-b521-07a16bc7900b.gif" width="100" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
   </div>
 
   <br /><br />
@@ -46,8 +37,9 @@
   <h2>📊 My GitHub Analytics</h2>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sadbroshanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbroshanto&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sadbroshanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="170" alt="stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbroshanto&layout=pie&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="170" alt="languages" />
   </div>
 
   <br />
@@ -70,7 +62,7 @@
   <br /><br />
 
   <a href="https://ibb.co/1rMRK0W">
-    <img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" width="200" style="border-radius:15px; border: 3px solid #39FF14; box-shadow: 0 0 15px #39FF14;" alt="Profile Pic" />
+    <img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" width="200" style="border-radius:15px; border: 3px solid #39FF14;" alt="Profile Pic" />
   </a>
   
   <br /><br />
