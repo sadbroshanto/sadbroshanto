@@ -1,65 +1,83 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum;I'm+Mohammed+Shanto;Crypto+%26+Forex+Trader+%F0%9F%93%88;Blockchain+Developer;Limitless+Opportunities..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00FFD1&background=0D111700&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+SYSTEM...;%3E+USER:+MOHAMMED+SHANTO+(SaDbRO);%3E+ROLE:+CRYPTO+TRADER+%26+BLOCKCHAIN+DEV;%3E+STATUS:+BUILDING+THE+FUTURE_"; alt="Typing SVG" />
   </a>
 
   <br />
 
   <p>
     <a href="https://github.com/sadbroshanto">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
-    </a>
-    <a href="https://www.facebook.com/Sadbro.link.diya.ki.korba.bro.voy.paichi">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/GitHub-Terminal-181717?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=black" height="28" />
     </a>
     <a href="https://t.me/+QEvBe0q7ZJkxNzA1">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/Telegram-Uplink-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" height="28" />
     </a>
-    <a href="https://youtube.com/@sadbroshanto">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" />
+     <a href="https://www.facebook.com/Sadbro.link.diya.ki.korba.bro.voy.paichi">
+      <img src="https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" height="28" />
     </a>
+  </p>
+  
+   <p>
+    <img src="https://img.shields.io/badge/TRADING_ENGINE-ACTIVE-00FFD1?style=flat-square&logo=bitcoin&logoColor=black" />
+    <img src="https://img.shields.io/badge/CODE_BASE-SECURE-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white" />
   </p>
 
   <br />
 
-  <h2>🚀 Live Trading Terminal</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 10px; border: 2px solid #00FF00;" alt="Trading Dashboard" />
-
+  <h2>⚡ SYSTEM MAINFRAME ACCESS ⚡</h2>
+  <div style="border: 2px solid #00FFD1; border-radius: 10px; padding: 5px; display: inline-block; box-shadow: 0 0 15px #00FFD1 inset;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR5ZXF5ZXF5ZXF5ZXF5ZXF5ZXF5ZXF5ZXF5ZXF5ZXSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btQ8jDTPxhpWTyc/giphy.gif" width="600" style="border-radius: 5px;" alt="Cyberpunk Terminal" />
+  </div>
+  
   <br /><br />
 
-  <p>
-     <img src="https://img.shields.io/badge/Bitcoin-BTC-FF9900?style=flat-square&logo=bitcoin&logoColor=white" />
-     <img src="https://img.shields.io/badge/Ethereum-ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-     <img src="https://img.shields.io/badge/Solana-SOL-00FFA3?style=flat-square&logo=solana&logoColor=black" />
-     <img src="https://img.shields.io/badge/Analysis-TradingView-131722?style=flat-square&logo=tradingview&logoColor=white" />
-  </p>
-
-  <br />
-
-  <h2>🏆 Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sadbroshanto&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <h3>🛠️ DEV ARSENAL</h3>
+        <p>
+          <img src="https://img.shields.io/badge/JS-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/PY-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/SOL-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+          <br/>
+          <img src="https://img.shields.io/badge/REACT-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/NODE-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        </img src="https://img.shields.io/badge/WEB3-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" align="center" style="border: none; border-left: 2px solid #30363d;">
+        <h3>📈 TRADING TECH</h3>
+        <p>
+          <img src="https://img.shields.io/badge/TV-TradingView-131722?style=flat-square&logo=tradingview&logoColor=white" />
+          <img src="https://img.shields.io/badge/TA-Technical_Analysis-FF9900?style=flat-square&logo=bitcoin&logoColor=white" />
+          <br/>
+          <img src="https://img.shields.io/badge/X-Binance-F0B90B?style=flat-square&logo=binance&logoColor=black" />
+          <img src="https://img.shields.io/badge/DEFI-Decentralized_Finance-00FFD1?style=flat-square&logo=ethereum&logoColor=black" />
+        </p>
+      </td>
+    </tr>
+  </table>
 
   <br /><br />
+  
+  <h3>🌐 NETWORK ACTIVITY GRAPH</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px; opacity: 0.8; border-bottom: 2px solid #00FFD1;" />
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=sadbroshanto&theme=highcontrast&hide_border=true&bg_color=0D1117&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
   <br /><br />
-
-  <hr style="border: 1px solid #30363d;" />
 
   <h3>
-    👀 Visitors: 
-    <img src="https://komarev.com/ghpvc/?username=sadbroshanto&label=VIEWS&color=00FF00&style=flat" alt="Visitor Count" />
+    SYSTEM USER: SaDbRO <br/>
+    <img src="https://komarev.com/ghpvc/?username=sadbroshanto&label=PROFILE%20ACCESS&color=00FFD1&style=flat-square" alt="Visitor Count" />
   </h3>
 
   <a href="https://ibb.co/1rMRK0W">
-    <img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" width="150" style="border-radius:50%; border: 3px solid #00FF00;" alt="Profile Pic" />
+    <img src="https://i.ibb.co/5rksv1H/IMG-20220604-024028-305.jpg" width="160" style="border-radius:50%; border: 3px solid #00FFD1; box-shadow: 0 0 25px #00FFD1; filter: grayscale(30%);" alt="Profile Pic" />
   </a>
   
-  <br /><br />
-  <p><b>Mohammed Shanto Islam</b></p>
+  <p style="font-family: monospace; color: #00FFD1;">
+    > END OF TRANSMISSION_
+  </p>
 
 </div>
